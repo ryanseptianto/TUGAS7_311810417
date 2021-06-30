@@ -4,10 +4,12 @@ RYAN SEPTIANTO
 
 **JOIN**
 
-![3](https://user-images.githubusercontent.com/46926758/123118549-ef395300-d46c-11eb-8f8f-9f598e47e697.PNG)
+![revisi 3](https://user-images.githubusercontent.com/46926758/123987576-819fa080-d9f1-11eb-8bc9-20b54989c7b6.PNG)
 
 **TAMPILAN INDEKS**
 
-![1](https://user-images.githubusercontent.com/46926758/123119053-60790600-d46d-11eb-9e19-2458e5385844.PNG)
-![2](https://user-images.githubusercontent.com/46926758/123119624-e4cb8900-d46d-11eb-9fc8-77b7203fd15c.PNG)
+![11](https://user-images.githubusercontent.com/46926758/123988115-f07cf980-d9f1-11eb-948f-6dd90e4ade08.PNG)
+
+![iner join   left join](https://user-images.githubusercontent.com/46926758/123988159-fa9ef800-d9f1-11eb-85b3-5060f1ff72ea.PNG)
+
 
